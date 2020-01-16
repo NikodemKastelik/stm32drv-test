@@ -1,0 +1,6 @@
+#ifndef _STM32DRV_CONFIG_H
+#define _STM32DRV_CONFIG_H
+
+#define DRV_CONFIG_USART1_ENABLED 1
+
+#endif
